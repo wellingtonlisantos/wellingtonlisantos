@@ -1,26 +1,31 @@
-# Radar Cultural - Interactive Cultural Heritage Mapping
+# Hi, I'm Wellington Lima Santos 👋
 
-A web application designed to map, highlight, and preserve local artisan culture and historical heritage in Miranda, Mato Grosso do Sul, Brazil.
+Software Engineering student and developer based in Mato Grosso do Sul, Brazil. Focused on modern web development, clean logic, and building functional applications.
 
-## 📌 Features
+---
 
-* **Interactive Mapping:** Visual display of cultural points and local artisan workshops.
-* **Cultural Directory:** Organized access to historical information, traditional crafts, and local events.
-* **Responsive Interface:** Minimalist design optimized for desktop and mobile viewports.
+### 🛠️ Tech Stack & Tools
 
-## 🛠️ Tech Stack
+* **Languages:** JavaScript (ES6+), HTML5, CSS3
+* **Tools & Workflow:** Git, GitHub, VS Code
+* **Core Concepts:** Object-Oriented Programming (OOP), REST API Integration, Responsive Web Design
 
-* **Frontend:** HTML5, CSS3, JavaScript (ES6+)
-* **Tools & Versioning:** Git, GitHub, VS Code
+---
 
-## 🚀 Getting Started
+## 🚀 Featured Projects
 
-### Prerequisites
+* **[Radar Cultural](https://github.com/wellingtonlisantos/radar-cultural)** 🟢 *(Active)*  
+  Interactive web platform mapping local cultural heritage and artisan workshops using HTML5, CSS3, and JavaScript.
 
-You need a web browser to run this project locally.
+* **[Mind Mirror](https://github.com/wellingtonlisantos/mind-mirror)** 🟡 *(In Development)*  
+  Personal productivity and study management application designed to optimize daily task workflows.
 
-### Installation
+* **[Byte2D](https://github.com/wellingtonlisantos/byte2d)** 🟡 *(WIP - Work in Progress)*  
+  A retro 2D browser game focused on Object-Oriented Programming (OOP) and core logic algorithms in JavaScript.
 
-1. Clone the repository:
-   ```bash
-   git clone [https://github.com/wellingtonlisantos/radar-cultural.git](https://github.com/wellingtonlisantos/radar-cultural.git)
+* **[Nexus](https://github.com/wellingtonlisantos/nexus)** 🔵 *(Planned)*  
+  A dark-tech real-time analytics dashboard integrating public REST APIs for weather, currency exchange, and tech news.
+
+---
+
+📫 **Connect with me:** [GitHub](https://github.com/wellingtonlisantos)
