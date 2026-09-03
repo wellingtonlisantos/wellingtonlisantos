@@ -21,7 +21,7 @@ Software Engineering student focused on modern web development, clean logic, and
   Personal productivity and study management application designed to optimize daily task workflows.
 
 * **[Byte2D](https://github.com/wellingtonlisantos/Byte2D)** 🟡 *(In Development)*  
-  Retro 2D browser game engine focused on Object-Oriented Programming (OOP) and core logic algorithms in JavaScript.
+  A retro 2D browser game engine focused on Object-Oriented Programming (OOP) and core logic algorithms in JavaScript.
 
 * **[Nexus-Hub](https://github.com/wellingtonlisantos/Nexus-Hub)** 🔵 *(Planned)*  
   Central hub and ecosystem dashboard integrating real-time analytics and web development projects.
