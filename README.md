@@ -1,33 +1,26 @@
-# Hi, I'm Wellington! 👋
+# Radar Cultural - Interactive Cultural Heritage Mapping
 
-🎓 **Software Engineering Student**  
-🎯 **Focus:** Web Development & Software Architecture  
-📍 **Location:** Brazil  
+A web application designed to map, highlight, and preserve local artisan culture and historical heritage in Miranda, Mato Grosso do Sul, Brazil.
 
----
+## 📌 Features
 
-### 🛠️ Tech Stack & Tools
+* **Interactive Mapping:** Visual display of cultural points and local artisan workshops.
+* **Cultural Directory:** Organized access to historical information, traditional crafts, and local events.
+* **Responsive Interface:** Minimalist design optimized for desktop and mobile viewports.
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+## 🛠️ Tech Stack
 
----
+* **Frontend:** HTML5, CSS3, JavaScript (ES6+)
+* **Tools & Versioning:** Git, GitHub, VS Code
 
-### 🚀 Featured Projects
+## 🚀 Getting Started
 
-* 🌐 **Radar Cultural (Miranda Viva):** Interactive web platform showcasing local cultural heritage and artisans using HTML, CSS, and JavaScript.
-* 🧠 **Mind Mirror:** Personal productivity application designed to optimize daily task organization and study routines.
+### Prerequisites
 
----
+You need a web browser to run this project locally.
 
-### 📬 Connect with me
+### Installation
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wellingtonlisantos)
-
----
+1. Clone the repository:
+   ```bash
+   git clone [https://github.com/wellingtonlisantos/radar-cultural.git](https://github.com/wellingtonlisantos/radar-cultural.git)
