@@ -1,31 +1,35 @@
-# Hi, I'm Wellington Lima Santos 👋
+Wellington Lima Santos 👋
 
-Software Engineering student focused on modern web development, clean logic, and building functional, scalable applications.
+🎓 Estudante de Engenharia de Software
+💻 Desenvolvedor em formação
+🇧🇷 Brasil | 🇪🇸 Preparando-me para oportunidades na Espanha
 
----
+Atualmente estou estudando programação, desenvolvimento web, Git/GitHub e fundamentos de Engenharia de Software.
 
-### 🛠️ Tech Stack & Tools
+Estou construindo projetos próprios para colocar em prática o que aprendo e desenvolver meu portfólio.
 
-* **Languages:** JavaScript (ES6+), HTML5, CSS3
-* **Tools & Workflow:** Git, GitHub, VS Code
-* **Core Concepts:** Object-Oriented Programming (OOP), REST API Integration, Responsive Web Design
+🛠️ Atualmente estudando
 
----
+- HTML
+- CSS
+- JavaScript
+- Git e GitHub
+- Fundamentos de programação
+- Engenharia de Software
 
-### 🚀 Featured Projects
+🚀 Projetos
 
-* **[Radar Cultural](https://github.com/wellingtonlisantos/Radar-Cultural-)** 🟢 *(Active)*  
-  Interactive web platform mapping local cultural heritage and artisan workshops using HTML5, CSS3, and JavaScript.
+Radar Cultural — Plataforma web para valorização do patrimônio e da cultura local.
 
-* **[MentalMirror](https://github.com/wellingtonlisantos/MentalMirror)** 🟡 *(In Development)*  
-  Personal productivity and study management application designed to optimize daily task workflows.
+MentalMirror — Projeto voltado à organização de estudos e produtividade.
 
-* **[Byte2D](https://github.com/wellingtonlisantos/Byte2D)** 🟡 *(In Development)*  
-  A retro 2D browser game engine focused on Object-Oriented Programming (OOP) and core logic algorithms in JavaScript.
+Byte2D — Projeto experimental relacionado a jogos e programação.
 
-* **[Nexus-Hub](https://github.com/wellingtonlisantos/Nexus-Hub)** 🔵 *(Planned)*  
-  Central hub and ecosystem dashboard integrating real-time analytics and web development projects.
+Nexus-Hub — Projeto planejado para estudos e desenvolvimento de software.
 
----
+🎯 Objetivo
 
-📫 **Connect with me:** [GitHub](https://github.com/wellingtonlisantos)
+Construir uma base sólida em desenvolvimento de software, ganhar experiência prática através de projetos e buscar minha primeira oportunidade profissional na área de tecnologia.
+
+📫 LinkedIn: em breve
+🐙 GitHub: este perfil
