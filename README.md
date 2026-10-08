@@ -22,6 +22,8 @@ Radar Cultural — Plataforma web para valorização do patrimônio e da cultura
 
 MentalMirror — Projeto voltado à organização de estudos e produtividade.
 
+Amigo Mavie - Assistente interativo e aplicação web de suporte para tarefas e estudos.
+
 Byte2D — Projeto experimental relacionado a jogos e programação.
 
 Nexus-Hub — Projeto planejado para estudos e desenvolvimento de software.
