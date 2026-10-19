@@ -24,9 +24,7 @@ MentalMirror — Projeto voltado à organização de estudos e produtividade.
 
 Amigo Mavie — Assistente interativo e aplicação web de suporte para tarefas e estudos.
 
-Byte2D — Projeto experimental relacionado a jogos e programação.
-
-Nexus-Hub — Projeto planejado para estudos e desenvolvimento de software.
+AnatoDex – Plataforma interativa de exploração anatômica e aprendizado do corpo humano.
 
  Objetivo
 
