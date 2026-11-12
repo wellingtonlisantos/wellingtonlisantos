@@ -20,7 +20,7 @@ Estou construindo projetos próprios para colocar em prática o que aprendo e de
 
 Radar Cultural — Plataforma web para valorização do patrimônio e da cultura local.
 
-FluxAI — Projeto voltado a inteligência artifial e automanção de processos.
+FluxIA — Projeto voltado a inteligência artifial e automanção de processos.
 
 Amigo Mavie — Assistente interativo e aplicação web de suporte para tarefas e estudos.
 
